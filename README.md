@@ -42,4 +42,4 @@ Using the Random Forest model, the most important features affecting bike prices
 
 Here’s a graphical representation of feature importance:
 
-![Alt text](../image/bike.png)
+![Alt text](./image/bike.png)
