@@ -1,7 +1,5 @@
 # Predicting Used Motorcycle Prices in Bangladesh: A Machine Learning Approach
 
-# Predicting Used Motorcycle Prices in Bangladesh: A Machine Learning Approach
-
 ## Introduction
 
 The used motorcycle market in Bangladesh is vibrant and dynamic, with a wide variety of bikes available at different price points. However, determining the fair price of a used bike can be challenging for both buyers and sellers. This research aims to address this challenge by developing a machine learning model to predict the prices of used motorcycles based on their attributes. The dataset for this analysis was collected by scraping listings from the popular online marketplace, bikroy.com.
